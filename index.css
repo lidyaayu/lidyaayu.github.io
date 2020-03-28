@@ -1,5 +1,6 @@
 body{background-image:url(paper.jpg);}
 img{border-radius : 40px}
-h1{color : "slateblue";}
-p{text-align : "center";}
-color: "mediumseaGreen"}
+h1{ color: slateblue;
+  text-align: center;}
+p{text-align : center;
+color: mediumseaGreen}
