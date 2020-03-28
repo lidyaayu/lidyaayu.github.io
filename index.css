@@ -1,4 +1,4 @@
-	<body style="background-image: url(paper.jpg);">
+body{background-image:url(paper.jpg);}
 img{border-radius : 40px}
 h1{color : "SlateBlue"}
 p{text-align : "center";
